@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             String str = send_text.getText().toString();
             receiver_msg.setText("Hello, "+str);
         });
-
+//comment
     }
 
 
